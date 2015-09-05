@@ -1,0 +1,2 @@
+# ConnectFour
+Ruby Terminal Game
